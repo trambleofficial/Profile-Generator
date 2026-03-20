@@ -1,0 +1,130 @@
+[
+  {
+    "profile_id": "6297b83f-493d-4fc7-ba36-dbd2a91d90bc",
+    "username": "loblaze_187",
+    "display_name": "LoBlaze ron77",
+    "first_name": "LoBlaze",
+    "last_name": "ron77",
+    "alias": "LoBlaze",
+    "gender": "Feminine",
+    "age": 48,
+    "date_of_birth": "1978-10-14",
+    "email": "loblaze_187@neurogrid.ai",
+    "phone": "+1-292-621-3873",
+    "country": "The Collective",
+    "city": "Static Hill",
+    "bio": "Holographic interface designer living in the wires, virtual racing.",
+    "skills": [
+      "Holographic Art",
+      "Quantum Coding",
+      "Neural Mapping",
+      "Data Splicing",
+      "Bio-Hacking",
+      "Cyber Security"
+    ],
+    "interests": [
+      "Circuitry Art",
+      "Retro-Hardware",
+      "Techno-Meditation"
+    ],
+    "personality_traits": [
+      "Empathetic",
+      "Visionary",
+      "Calculative"
+    ],
+    "social_profiles": {
+      "instagram": "https://insta-mesh.com/loblaze_187",
+      "twitter": "https://vortex.io/loblaze_187",
+      "github": "https://git-core.dev/loblaze_187"
+    },
+    "avatar_url": "https://robohash.org/6297b83f-493d-4fc7-ba36-dbd2a91d90bc?set=set4&bgset=bg1",
+    "created_at": "2026-03-20T00:29:12.516Z"
+  },
+  {
+    "profile_id": "984d74ea-9b54-405a-90bf-1cae314eae36",
+    "username": "fluxnaterax",
+    "display_name": "FluxnaTera ZenronX",
+    "first_name": "FluxnaTera",
+    "last_name": "ZenronX",
+    "alias": "FluxnaTera",
+    "gender": "Non-Binary",
+    "age": 33,
+    "date_of_birth": "1993-05-01",
+    "email": "fluxnaterax@neurogrid.ai",
+    "phone": "+1-838-403-6955",
+    "country": "New Eden",
+    "city": "Aetheria",
+    "bio": "Full-stack neural architect dreaming of silicon dreams, data mining.",
+    "skills": [
+      "Neural Mapping",
+      "Sub-grid Navigation",
+      "Data Splicing",
+      "Quantum Coding",
+      "Bio-Hacking",
+      "Cyber Security",
+      "AI Orchestration",
+      "Holographic Art"
+    ],
+    "interests": [
+      "Techno-Meditation",
+      "Virtual Racing",
+      "Holographic Cinema",
+      "Circuitry Art"
+    ],
+    "personality_traits": [
+      "Visionary",
+      "Rebellious",
+      "Calculative",
+      "Highly Focused"
+    ],
+    "social_profiles": {
+      "instagram": "https://insta-mesh.com/fluxnaterax",
+      "twitter": "https://vortex.io/fluxnaterax",
+      "github": "https://git-core.dev/fluxnaterax"
+    },
+    "avatar_url": "https://robohash.org/984d74ea-9b54-405a-90bf-1cae314eae36?set=set4&bgset=bg1",
+    "created_at": "2026-03-20T00:29:12.516Z"
+  },
+  {
+    "profile_id": "c0a22cee-66cc-4814-a48c-a8bd37225755",
+    "username": "xadynhelixx",
+    "display_name": "XadynHelix KaDax",
+    "first_name": "XadynHelix",
+    "last_name": "KaDax",
+    "alias": "XadynHelix",
+    "gender": "Masculine",
+    "age": 24,
+    "date_of_birth": "2002-12-24",
+    "email": "xadynhelixx@neurogrid.ai",
+    "phone": "+1-202-978-4918",
+    "country": "Neo-Japan",
+    "city": "Neural City",
+    "bio": "Cybernetic security specialist always seeking the next glitch, techno-meditation.",
+    "skills": [
+      "AI Orchestration",
+      "Cyber Security",
+      "Quantum Coding",
+      "Bio-Hacking",
+      "Neural Mapping",
+      "Sub-grid Navigation",
+      "Data Splicing"
+    ],
+    "interests": [
+      "Virtual Racing",
+      "Static Photography",
+      "Circuitry Art"
+    ],
+    "personality_traits": [
+      "Rebellious",
+      "Unpredictable",
+      "Analytical"
+    ],
+    "social_profiles": {
+      "instagram": "https://insta-mesh.com/xadynhelixx",
+      "twitter": "https://vortex.io/xadynhelixx",
+      "github": "https://git-core.dev/xadynhelixx"
+    },
+    "avatar_url": "https://robohash.org/c0a22cee-66cc-4814-a48c-a8bd37225755?set=set4&bgset=bg1",
+    "created_at": "2026-03-20T00:29:12.516Z"
+  }
+]
